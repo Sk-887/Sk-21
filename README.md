@@ -4,7 +4,7 @@
 Dynamic and results-driven Computer Science and Engineering student with a strong foundation in software development, data structures, and algorithmic problem-solving. Proven experience leading academic projects and delivering efficient, real-world solutions. Fast learner with a focused mindset, eager to contribute to practical software development in a professional environment.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thenameissk____)[![LinkedIn](www.linkedin.com/in/SUMANTH-KUMAR21)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thenameissk____)[LinkedIn](https://linkedin.com/in/SUMANTH KUMAR)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarsumanth187@gmail.com) 
 
 # 💻 Tech Stack:
