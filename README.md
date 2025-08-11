@@ -1,5 +1,5 @@
 # About me:
-# Hello..!! I am Sumanth kumar
+# Hello...!! I am Sumanth kumar
 
 Dynamic and results-driven Computer Science and Engineering student with a strong foundation in software development, data structures, and algorithmic problem-solving.Proven experience leading academic projects and delivering efficient, real-world solutions. Fast learner with a focused mindset, eager to contribute to practical software development in a professional environment..
 
