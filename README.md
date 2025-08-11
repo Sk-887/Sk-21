@@ -1,7 +1,7 @@
 # About me:
 # Hello!! I am Sumanth kumar
 
-Dynamic and results-driven Computer Science and Engineering student with a strong foundation in software development, data structures, and algorithmic problem-solving.Proven experience leading academic projects and delivering efficient, real-world solutions. Fast learner with a focused mindset, eager to contribute to practical software development in a professional environment.
+Dynamic and results-driven Computer Science and Engineering student with a strong foundation in software development, data structures, and algorithmic problem-solving.Proven experience leading academic projects and delivering efficient, real-world solutions. Fast learner with a focused mindset, eager to contribute to practical software development in a professional environment..
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thenameissk____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumanth-kumar21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarsumanth187@gmail.com) 
